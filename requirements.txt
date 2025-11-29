@@ -1,0 +1,4 @@
+# requirements.txt (Tina)
+flask==2.3.3
+requests==2.31.0
+gunicorn==21.0.0  # replace with the latest stable version that works for you
